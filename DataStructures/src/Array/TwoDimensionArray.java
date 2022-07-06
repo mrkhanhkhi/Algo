@@ -1,4 +1,4 @@
-package TwoDimensionsArray;
+package Array;
 
 public class TwoDimensionArray {
     int arr[][] = null;
